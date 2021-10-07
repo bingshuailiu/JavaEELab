@@ -1,0 +1,13 @@
+2021-09-30 17:29:43.407 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Starting DemoApplicationTests using Java 11.0.12 on LAPTOP-CB1SPUCV with PID 22812 (started by 11872 in E:\ideaProjects\JavaEEPlatform\2.SpringMvc\RestFulDemo)
+2021-09-30 17:29:43.412 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2021-09-30 17:29:46.750 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Started DemoApplicationTests in 3.715 seconds (JVM running for 4.886)
+2021-09-30 17:35:23.345 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Starting GoodsControllerIntegrationTest using Java 11.0.12 on LAPTOP-CB1SPUCV with PID 20020 (started by 11872 in E:\ideaProjects\JavaEEPlatform\2.SpringMvc\RestFulDemo)
+2021-09-30 17:35:23.352 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - No active profile set, falling back to default profiles: default
+2021-09-30 17:35:27.387 [main] INFO  c.e.x.r.controller.GoodsControllerIntegrationTest - Started GoodsControllerIntegrationTest in 4.552 seconds (JVM running for 6.486)
+2021-09-30 17:35:28.208 [main] INFO  c.e.x.r.controller.ControllerExceptionHandler - methodArgumentNotValid: msg = 商品名称不能为空;
+2021-09-30 17:35:28.283 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Starting GoodsControllerTest using Java 11.0.12 on LAPTOP-CB1SPUCV with PID 20020 (started by 11872 in E:\ideaProjects\JavaEEPlatform\2.SpringMvc\RestFulDemo)
+2021-09-30 17:35:28.285 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - No active profile set, falling back to default profiles: default
+2021-09-30 17:35:29.628 [main] INFO  c.e.xmu.restfuldemo.controller.GoodsControllerTest - Started GoodsControllerTest in 1.38 seconds (JVM running for 8.727)
+2021-09-30 17:35:29.777 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Starting DemoApplicationTests using Java 11.0.12 on LAPTOP-CB1SPUCV with PID 20020 (started by 11872 in E:\ideaProjects\JavaEEPlatform\2.SpringMvc\RestFulDemo)
+2021-09-30 17:35:29.778 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2021-09-30 17:35:30.874 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Started DemoApplicationTests in 1.13 seconds (JVM running for 9.973)

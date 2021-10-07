@@ -1,0 +1,3 @@
+2021-10-04 20:27:32.596 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Starting DemoApplicationTests using Java 11.0.12 on LAPTOP-CB1SPUCV with PID 26964 (started by 11872 in E:\ideaProjects\JavaEEPlatform\2.SpringMvc\RestFulDemo)
+2021-10-04 20:27:32.614 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2021-10-04 20:27:37.412 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplicationTests - Started DemoApplicationTests in 5.459 seconds (JVM running for 8.219)
